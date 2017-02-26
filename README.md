@@ -23,6 +23,8 @@ http://tomscherlis.com/wordpress/wp-content/uploads/2017/02/Lattice-Boltzmann-Al
 ## Controls:
 ![controls](http://i.imgur.com/623OvSZ.png)
 
+To run this, clone the repo and run lbm.exe in the bin/win64/debug folder.
+
 ## Screenshots:
 ![screenshots 1](http://i.imgur.com/n6UrF8J.png)  
 ![screenshots 2](http://i.imgur.com/Ew07zWf.png)
